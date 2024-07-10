@@ -1,2 +1,2 @@
-# sqlalchemy_challenge_2
-Resubmission of HW 10
+# sqlalchemy_challenge
+Homework 10
